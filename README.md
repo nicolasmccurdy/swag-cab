@@ -1,4 +1,4 @@
-# brickhack2
+# SwagCab
 A Brickhack 2 project
 
 ## Development
