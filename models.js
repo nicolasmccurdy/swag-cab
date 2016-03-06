@@ -10,7 +10,7 @@ module.exports = {
   }),
 
   Event: mongoose.model('Event', {
-    name: { type: String, required: true, default: 'leparty' },
+    name: { type: String, required: true },
     location: { type: String, required: true },
     hostid: { type: Number, required: true },
     creationdate: { type: Date, required: true },
