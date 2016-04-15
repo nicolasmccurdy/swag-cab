@@ -1,4 +1,6 @@
 # SwagCab
+[![Build Status](https://travis-ci.org/nicolasmccurdy/swag-cab.svg?branch=master)](https://travis-ci.org/nicolasmccurdy/swag-cab)
+
 A Brickhack 2 project
 
 ## Development
