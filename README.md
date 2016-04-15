@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/nicolasmccurdy/swag-cab.png?label=ready&title=Ready)](https://waffle.io/nicolasmccurdy/swag-cab)
 # SwagCab
 [![Build Status](https://travis-ci.org/nicolasmccurdy/swag-cab.svg?branch=master)](https://travis-ci.org/nicolasmccurdy/swag-cab)
 
